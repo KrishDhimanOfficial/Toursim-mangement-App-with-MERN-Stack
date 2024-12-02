@@ -1,0 +1,1 @@
+Welcome to the Tourism Management App, an application designed to streamline the management and exploration of tourism-related services. This app connects travelers with destinations, activities, and services while enabling administrators to manage tourism-related data effectively
