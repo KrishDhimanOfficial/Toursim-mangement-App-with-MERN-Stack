@@ -8,21 +8,22 @@ This is a RESTful API for managing tours, destinations, posts, and orders in a t
 - **Destination Management**: Get top destinations.
 - **Post Management**: Fetch recent posts, all posts, and posts by category.
 - **Comment System**: Create and reply to comments on posts.
-- **Order Processing**: Create and validate orders using Razorpay.
-
+- **Bookings **: Create and validate Bookings using Razorpay.
+  
 ## Technologies Used
 
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
+- React.js
 - Razorpay API
 
 ## Installation
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/tour-management-api.git
+   git clone https://github.com/KrishDhimanOfficial/Toursim-mangement-App-with-MERN-Stack
    
 2. Navigate to the project directory:
 
